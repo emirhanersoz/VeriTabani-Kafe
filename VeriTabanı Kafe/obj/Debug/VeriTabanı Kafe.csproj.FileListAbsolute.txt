@@ -1,0 +1,33 @@
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\VeriTabanı Kafe.exe.config
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\VeriTabanı Kafe.exe
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\VeriTabanı Kafe.pdb
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\Npgsql.dll
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Buffers.dll
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Memory.dll
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Text.Json.dll
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Threading.Channels.dll
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.ValueTuple.dll
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\Npgsql.xml
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Buffers.xml
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Memory.xml
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Text.Json.xml
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Threading.Channels.xml
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\bin\Debug\System.ValueTuple.xml
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\obj\Debug\VeriTabanı Kafe.csprojAssemblyReference.cache
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\obj\Debug\VeriTabanı_Kafe.Form1.resources
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\obj\Debug\VeriTabanı_Kafe.Properties.Resources.resources
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\obj\Debug\VeriTabanı Kafe.csproj.GenerateResource.cache
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\obj\Debug\VeriTabanı Kafe.csproj.CoreCompileInputs.cache
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\obj\Debug\VeriTabanı Kafe.csproj.CopyComplete
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\obj\Debug\VeriTabanı Kafe.exe
+C:\Users\eemir\source\repos\VeriTabanı Kafe\VeriTabanı Kafe\obj\Debug\VeriTabanı Kafe.pdb
